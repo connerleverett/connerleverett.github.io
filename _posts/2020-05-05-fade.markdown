@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Fade"
+date: 2020-05-05 18:02:19 -0700
+categories: css fade material-ui styles
+---
+
+### Code
+
+If you're using [material-ui](https://material-ui.com/) you may be using the [styles](https://material-ui.com/styles/basics/) package to dynamically style your components. I learned about the `fade` function today which was very helpful.
+
+The problem I was trying to solve was using a dynamic colour with an opacity in our style sheet.
+My original solution was to hardcode the colour with a comment like such:
+
+```
+// Our colour
+rgba(100,100,100, 0.5)
+```
+
+However, using `fade` allowed me to keep both the dynamic colour and opacity:
+
+```
+fade(theme.palette.error.main, 0.15)
+```
+
+### Music
+
+I've really been into Aries lately. I heard it was "emo-rap" but it feels pretty upbeat to me. The first single [BAD NEWS](https://www.youtube.com/watch?v=osE9DTIr7hg) gets me ready for the day of coding ahead.
