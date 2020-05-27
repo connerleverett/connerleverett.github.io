@@ -18,7 +18,7 @@ My name is Conner Leverett and I'm an intermediate software developer at [Geocor
 
 ### Education
 
-UVic 2017 BSc Geomatics (Combined Geography and Compuyer Science)
+UVic 2017 BSc Geomatics (Combined Geography and Computer Science)
 
 ### How'd you get to where you are?
 
